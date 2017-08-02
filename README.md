@@ -12,11 +12,11 @@ dash-ui](https://github.com/cpsdqs/dash-ui) theme.
 1. Open Hyper's preferences with `Cmd + ,` (or manually at `~/.hyper.js`).
 2. Update your list of plugins to include `hyper-dash`, like this:
 
-  ```javascript
-  plugins: [
-    'hyper-dash'
-  ]
-  ```
+    ```javascript
+    plugins: [
+      'hyper-dash'
+    ]
+    ```
 3. Fully reload Hyper (`Cmd + Shift + R`)
 4. Profit!
 
