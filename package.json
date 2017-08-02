@@ -1,0 +1,10 @@
+{
+  "name": "hyper-dash",
+  "version": "1.0.0",
+  "description": "Hyper.app theme based on Atom Dash UI",
+  "main": "index.js",
+  "repository": "https://github.com/licatajustin/hyper-dash",
+  "keywords": ["hyper", "colors", "atom", "dash"],
+  "author": "Justin Licata",
+  "license": "MIT"
+}
